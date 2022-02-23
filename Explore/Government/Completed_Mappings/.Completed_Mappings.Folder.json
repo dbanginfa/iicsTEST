@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "4rETqRNmGijkElnpCaZV64",
+    "name" : "Completed_Mappings",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Mappings for completed projects",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

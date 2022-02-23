@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "1Q2YRgjx4vZbSAG3o8w3qi",
+    "name" : "Government",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Government Projects",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

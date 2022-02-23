@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "7Y2r19bfIKnerYOlwoqAyj",
+    "name" : "mp_TSdecom_IntertribalCM_Reintegration_PlacementStatus",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01ASU61700000000002Z"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "Extracts all or filtered data from a source and loads it to an existing target.",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ ]
+}

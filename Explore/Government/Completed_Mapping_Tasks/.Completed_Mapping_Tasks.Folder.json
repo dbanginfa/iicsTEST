@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "6f2jbZENZYIfgpqhStXW6x",
+    "name" : "Completed_Mapping_Tasks",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Mapping Tasks for completed projects",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
