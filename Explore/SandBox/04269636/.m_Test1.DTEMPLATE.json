@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "6R8pxL2YLRleyOhWqg8ryQ",
+    "id" : "6JkNzuCGYb9kXT5u20bTkc",
     "name" : "m_Test1",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01ASU61700000000002F"
+        "repoHandle" : "01ASU61700000000002I"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -25,7 +25,7 @@
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
     "id" : "ja7B19G1LgrerkXccycZk8",
-    "name" : "Sandbox_LocalFiles_OUTPUT",
+    "name" : "Sandbox_LocalFiles",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
