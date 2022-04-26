@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "6kFLprJr0dAbeRdXwOmdyZ",
-    "name" : "m_WORKDAY_KAFKA_TO_ODS_NEWNAME",
+    "name" : "m_WORKDAY_KAFKA_TO_ODS",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
