@@ -17,8 +17,8 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
-        "documentState" : "VALID"
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
       }
     }
   },
@@ -43,5 +43,31 @@
       }
     },
     "path" : "/SYS"
+  }, {
+    "id" : "c2PEXgmfyu5i7Fe0McnRcq",
+    "name" : "bs_weather_test",
+    "type" : "BSERVICE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01ASU627000000000003"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      }, {
+        "name" : "01ASU628000000000003",
+        "value" : "c2PEXgmfyu5i7Fe0McnRcq@get"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/SandBox/04383329"
   } ]
 }

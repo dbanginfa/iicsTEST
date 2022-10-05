@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "0VoiyLJvVROeGSty3xOVST",
+    "name" : "04327082",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Oracle Post SQL stored proc",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
