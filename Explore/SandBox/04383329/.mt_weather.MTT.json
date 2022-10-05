@@ -35,10 +35,7 @@
       "repoInfo" : {
         "repoHandle" : "01ASU617000000000082"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "",
         "contentType" : "JSON",
