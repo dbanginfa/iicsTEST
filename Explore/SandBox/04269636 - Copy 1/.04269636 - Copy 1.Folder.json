@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "kNRYBfH7igHjS7Jj8SdfKl",
+    "name" : "04269636 - Copy 1",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Git Taskflow",
+        "contentType" : null,
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

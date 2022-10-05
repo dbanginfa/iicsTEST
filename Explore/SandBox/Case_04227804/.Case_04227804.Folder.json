@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "0BRNjHErkWPkn97qYnkYEE",
+    "name" : "Case_04227804",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Preview Functionality not working as expected when using parameters",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

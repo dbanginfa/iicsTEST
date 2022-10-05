@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "ijA2B1w3GoWdib4w1CuEUV",
+    "name" : "04305255",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "multiple lookups 1 parameter",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

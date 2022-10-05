@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "3dba95Qa6yNhLt3mNWMWYX",
+    "name" : "04308844",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "SFDC Bulk API v2",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

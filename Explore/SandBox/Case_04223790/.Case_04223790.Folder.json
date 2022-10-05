@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "6flJj26tgP5bdFi4LGSx26",
+    "name" : "Case_04223790",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Editing multiple mapping tasks simultaneously corrupts them",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

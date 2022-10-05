@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "biYiSQ4jNg2ildJoWjMxwg",
+    "name" : "04230330",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Taskflow runtime values not accurate",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

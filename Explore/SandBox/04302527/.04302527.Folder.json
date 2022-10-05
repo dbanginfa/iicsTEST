@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "2KI9KugNZ1PfnhilxtFvQa",
+    "name" : "04302527",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "SQL ODBC TLS",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
