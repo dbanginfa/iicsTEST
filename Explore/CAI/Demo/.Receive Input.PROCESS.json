@@ -1,0 +1,25 @@
+{
+  "objectInfo" : {
+    "id" : "9qdBCTkQ0y5ekfPKdIR469",
+    "name" : "Receive Input",
+    "type" : "PROCESS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "s8WrY1SypmXbeMV-gt-371774-2023-07-28T21:35:55.299Z::pd.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2023-08-29T21:53:55.119Z",
+  "objectRefs" : [ ]
+}

@@ -1,0 +1,25 @@
+{
+  "objectInfo" : {
+    "id" : "7n7MktwgOoDfBaPWzCz7GQ",
+    "name" : "Hello World",
+    "type" : "PROCESS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "Zf5kck8jKBmeK3j-gt-390888-2023-07-28T21:26:22.825Z::pd.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2023-08-29T21:53:55.120Z",
+  "objectRefs" : [ ]
+}
