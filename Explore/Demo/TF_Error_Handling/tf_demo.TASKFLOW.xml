@@ -13,8 +13,11 @@
       <types1:CreatedBy>dbang@informatica.com</types1:CreatedBy>
       <types1:CreationDate>2022-08-10T17:15:36Z</types1:CreationDate>
       <types1:ModifiedBy>dbang@informatica.com</types1:ModifiedBy>
-      <types1:ModificationDate>2022-08-17T21:07:33Z</types1:ModificationDate>
-      <types1:PublicationStatus>unpublished</types1:PublicationStatus>
+      <types1:ModificationDate>2023-08-17T18:56:40Z</types1:ModificationDate>
+      <types1:PublicationStatus>published</types1:PublicationStatus>
+      <types1:PublishedBy>dbang@informatica.com</types1:PublishedBy>
+      <types1:PublicationDate>2023-08-17T18:56:51Z</types1:PublicationDate>
+      <types1:PublishedContributionId>project:/tf.tf_demo/tf_demo.tf.xml</types1:PublishedContributionId>
       <types1:AutosaveExists>false</types1:AutosaveExists>
       <types1:Entry>
          <taskflow xmlns="http://schemas.active-endpoints.com/appmodules/screenflow/2010/10/avosScreenflow.xsd"
@@ -50,8 +53,12 @@
                </field>
             </tempFields>
             <notes/>
-            <deployment suspendOnFault="false" tracingLevel="verbose">
-               <rest/>
+            <deployment skipIfRunning="false" suspendOnFault="false" tracingLevel="verbose">
+               <rest>
+                  <allowedUsers>
+                     <user>dbang@informatica.com</user>
+                  </allowedUsers>
+               </rest>
             </deployment>
             <flow id="a">
                <start id="b">
@@ -239,6 +246,11 @@
                             nullable="true"
                             required="false"
                             type="reference"/>
+                     <field label="Max Wait (Seconds)"
+                            name="Max_Wait"
+                            nullable="true"
+                            required="false"
+                            type="int"/>
                   </detail>
                </processObject>
                <processObject xmlns="http://schemas.active-endpoints.com/appmodules/screenflow/2011/06/avosHostEnvironment.xsd"
@@ -263,6 +275,11 @@
                             nullable="true"
                             required="false"
                             type="reference"/>
+                     <field label="Max Wait (Seconds)"
+                            name="Max_Wait"
+                            nullable="true"
+                            required="false"
+                            type="int"/>
                   </detail>
                </processObject>
                <processObject xmlns="http://schemas.active-endpoints.com/appmodules/screenflow/2011/06/avosHostEnvironment.xsd"
@@ -290,5 +307,5 @@
       <types1:GUID>6IqcoNgLpbOk0prcKRghQy</types1:GUID>
       <types1:DisplayName>tf_demo</types1:DisplayName>
    </types1:Item>
-   <types1:CurrentServerDateTime>2023-03-09T18:09:41.188Z</types1:CurrentServerDateTime>
+   <types1:CurrentServerDateTime>2024-01-25T17:20:12.866Z</types1:CurrentServerDateTime>
 </aetgt:getResponse>
