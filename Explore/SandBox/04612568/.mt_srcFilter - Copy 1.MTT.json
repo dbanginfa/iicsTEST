@@ -16,14 +16,14 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "myFake",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-02-07T20:54:22.444Z",
+  "updateTime" : "2024-02-07T22:15:51.609Z",
   "objectRefs" : [ {
     "id" : "1PLiSc5GA6oge4Ya9e0Kq3",
     "name" : "DB_Ductuan_SQLServer_2",
