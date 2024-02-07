@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "5nT9vdMKaQglKHcUj0N8uu",
+    "name" : "04612568",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "source filter import",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-02-07T20:54:22.444Z",
+  "objectRefs" : [ ]
+}
