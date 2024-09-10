@@ -1,0 +1,80 @@
+<aetgt:getResponse xmlns:aetgt="http://schemas.active-endpoints.com/appmodules/repository/2010/10/avrepository.xsd"
+                   xmlns:types1="http://schemas.active-endpoints.com/appmodules/repository/2010/10/avrepository.xsd">
+   <types1:Item>
+      <types1:EntryId>Z7snSDg8SOlA1vy-gt-3230920-2024-04-26T21:39:37.836Z::svc.xml</types1:EntryId>
+      <types1:Name>Thomas_Bayer</types1:Name>
+      <types1:MimeType>application/xml+businesssconnector</types1:MimeType>
+      <types1:Description/>
+      <types1:AppliesTo/>
+      <types1:Tags/>
+      <types1:VersionLabel>1.0</types1:VersionLabel>
+      <types1:State>CURRENT</types1:State>
+      <types1:ProcessGroup/>
+      <types1:CreatedBy>dbang@informatica.com</types1:CreatedBy>
+      <types1:CreationDate>2024-04-26T21:39:38Z</types1:CreationDate>
+      <types1:ModifiedBy>dbang@informatica.com</types1:ModifiedBy>
+      <types1:ModificationDate>2024-04-26T21:41:38Z</types1:ModificationDate>
+      <types1:PublicationStatus>unpublished</types1:PublicationStatus>
+      <types1:Entry>
+         <businessConnector xmlns="http://schemas.informatica.com/socrates/data-services/2014/05/business-connector-model.xsd"
+                            agentOnly="false"
+                            debug="false"
+                            displayName="Thomas Bayer"
+                            label=""
+                            name="Thomas_Bayer"
+                            uuid="82ee4259-9664-4ab3-ba60-801c35cc1aa8">
+            <description/>
+            <tags/>
+            <connectionAttributes xmlns="http://schemas.informatica.com/appmodules/screenflow/2014/04/avosConnectors.xsd"/>
+            <actions>
+               <action category="Thomas Bayer"
+                       failOnError="true"
+                       forSearch="false"
+                       label="getInvoice"
+                       maxRedirects="100"
+                       name="getInvoice"
+                       preemptiveAuth="true"
+                       responseEncoding="">
+                  <description/>
+                  <input>
+                     <parameter description=""
+                                label=""
+                                name="invoiceID"
+                                required="false"
+                                testWith="12"
+                                type="string"/>
+                  </input>
+                  <binding>
+                     <restSimpleBinding multiUsing="semicolonSeparated"
+                                        url="http://www.thomas-bayer/sqlrest/INVOICE/{$invoiceID}/"
+                                        verb="GET">
+                        <mutualAuth enabled="false">
+                           <keyStore mode="file"/>
+                           <keyStorePassword/>
+                        </mutualAuth>
+                     </restSimpleBinding>
+                  </binding>
+                  <output>
+                     <field description="" name="ID" property="ID" type="string"/>
+                     <field description=""
+                            name="CUSTOMERID"
+                            property="CUSTOMERID"
+                            type="string"/>
+                     <field description=""
+                            name="responseCode"
+                            responseStatusCode="true"
+                            type="string"/>
+                     <field description="" name="responseCodeXQuery" type="string">
+                        <xquery>$ReponseStatusCode</xquery>
+                     </field>
+                  </output>
+               </action>
+            </actions>
+            <objects/>
+         </businessConnector>
+      </types1:Entry>
+      <types1:GUID>59Cs3n27yTAlyGGlzUDwYp</types1:GUID>
+      <types1:DisplayName>Thomas Bayer</types1:DisplayName>
+   </types1:Item>
+   <types1:CurrentServerDateTime>2024-09-10T15:18:51.439Z</types1:CurrentServerDateTime>
+</aetgt:getResponse>

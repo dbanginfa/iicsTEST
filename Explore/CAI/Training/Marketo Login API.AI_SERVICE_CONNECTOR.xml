@@ -1,0 +1,105 @@
+<aetgt:getResponse xmlns:aetgt="http://schemas.active-endpoints.com/appmodules/repository/2010/10/avrepository.xsd"
+                   xmlns:types1="http://schemas.active-endpoints.com/appmodules/repository/2010/10/avrepository.xsd">
+   <types1:Item>
+      <types1:EntryId>4DVK9Em2kVNKSmv-gt-3235600-2024-04-26T21:51:15.891Z::svc.xml</types1:EntryId>
+      <types1:Name>Marketo_Login_API</types1:Name>
+      <types1:ParentFlowIds>N4r6CFquUHukfRL-gt-3236498-2024-04-26T21:54:27.639Z::conn.xml</types1:ParentFlowIds>
+      <types1:MimeType>application/xml+businesssconnector</types1:MimeType>
+      <types1:Description>Marketo Rest API</types1:Description>
+      <types1:AppliesTo/>
+      <types1:Tags/>
+      <types1:VersionLabel>1.0</types1:VersionLabel>
+      <types1:State>CURRENT</types1:State>
+      <types1:ProcessGroup/>
+      <types1:CreatedBy>dbang@informatica.com</types1:CreatedBy>
+      <types1:CreationDate>2024-04-26T21:51:16Z</types1:CreationDate>
+      <types1:ModifiedBy>dbang@informatica.com</types1:ModifiedBy>
+      <types1:ModificationDate>2024-04-26T21:51:56Z</types1:ModificationDate>
+      <types1:PublicationStatus>unpublished</types1:PublicationStatus>
+      <types1:Entry>
+         <businessConnector xmlns="http://schemas.informatica.com/socrates/data-services/2014/05/business-connector-model.xsd"
+                            agentOnly="false"
+                            debug="false"
+                            displayName="Marketo Login API"
+                            label=""
+                            name="Marketo_Login_API"
+                            uuid="b7c4324a-16d6-44ec-9d86-f0d496a42c3c">
+            <description>Marketo Rest API</description>
+            <tags/>
+            <connectionAttributes xmlns="http://schemas.informatica.com/appmodules/screenflow/2014/04/avosConnectors.xsd">
+               <connectionAttribute description="Host Name"
+                                    name="hostName"
+                                    required="true"
+                                    testWith="462-VKM-148.mktorest.com"
+                                    type="string"/>
+            </connectionAttributes>
+            <actions>
+               <action category="Identity"
+                       failOnError="true"
+                       forSearch="false"
+                       label="Identity"
+                       maxRedirects="100"
+                       name="identityUsingGET"
+                       preemptiveAuth="true"
+                       responseEncoding="">
+                  <description>Identity. Retrieve an access token from Marketo.</description>
+                  <input>
+                     <parameter description="Client ID from Admin &gt; Integration &gt; Launchpoint menu."
+                                label="client_id"
+                                name="client_id"
+                                required="true"
+                                testWith="1234"
+                                type="string"/>
+                     <parameter description="Client Secret from Admin &gt; Integration &gt; Launchpoint menu."
+                                label="client_secret"
+                                name="client_secret"
+                                required="true"
+                                testWith="123"
+                                type="string"/>
+                     <parameter description="Grant type."
+                                label="grant_type"
+                                name="grant_type"
+                                required="true"
+                                testWith="client_credentials"
+                                type="picklist">
+                        <options>
+                           <option name="values">[{"value":"client_credentials","label":"client_credentials"}]</option>
+                        </options>
+                     </parameter>
+                     <parameter description="LaunchPoint Technology Partner &lt;a href='http://developers.marketo.com/support/Marketo_LaunchPoint_Technology_Partner_API_Key.pdf'&gt;API Key&lt;/a&gt;."
+                                label="partner_id"
+                                name="partner_id"
+                                required="false"
+                                testWith=""
+                                type="string"/>
+                  </input>
+                  <binding>
+                     <restSimpleBinding multiUsing="semicolonSeparated"
+                                        url="https://{$hostName}/identity/oauth/token"
+                                        verb="GET">
+                        <mutualAuth enabled="false">
+                           <keyStore mode="file"/>
+                           <keyStorePassword/>
+                        </mutualAuth>
+                        <httpHeaders>
+                           <header name="Content-Type">application/json</header>
+                           <header name="Accept">application/json</header>
+                        </httpHeaders>
+                     </restSimpleBinding>
+                  </binding>
+                  <output>
+                     <field description="OK"
+                            entireResponse="true"
+                            name="entireResponse"
+                            type="object"/>
+                  </output>
+               </action>
+            </actions>
+            <objects/>
+         </businessConnector>
+      </types1:Entry>
+      <types1:GUID>6gHm9iOQTELkwKt0kUTp0x</types1:GUID>
+      <types1:DisplayName>Marketo Login API</types1:DisplayName>
+   </types1:Item>
+   <types1:CurrentServerDateTime>2024-09-10T15:18:51.397Z</types1:CurrentServerDateTime>
+</aetgt:getResponse>

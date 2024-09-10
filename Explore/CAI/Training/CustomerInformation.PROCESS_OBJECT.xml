@@ -1,0 +1,61 @@
+<aetgt:getResponse xmlns:aetgt="http://schemas.active-endpoints.com/appmodules/repository/2010/10/avrepository.xsd"
+                   xmlns:types1="http://schemas.active-endpoints.com/appmodules/repository/2010/10/avrepository.xsd">
+   <types1:Item>
+      <types1:EntryId>nOjseGbciZBpDUQ-gt-3109554-2024-04-26T21:58:46.21Z::po.xml</types1:EntryId>
+      <types1:Name>CustomerInformation</types1:Name>
+      <types1:ParentFlowIds>CMFCnchKGXShOeC-gt-3117325-2024-04-26T22:19:57.454Z::pd.xml,qZpOzEkhK6LlRkP-gt-3111477-2024-04-26T22:05:06.261Z::pd.xml</types1:ParentFlowIds>
+      <types1:MimeType>application/xml+processobject</types1:MimeType>
+      <types1:Description/>
+      <types1:AppliesTo/>
+      <types1:Tags/>
+      <types1:VersionLabel>1.0</types1:VersionLabel>
+      <types1:State>CURRENT</types1:State>
+      <types1:ProcessGroup/>
+      <types1:CreatedBy>dbang@informatica.com</types1:CreatedBy>
+      <types1:CreationDate>2024-04-26T21:58:46Z</types1:CreationDate>
+      <types1:ModifiedBy/>
+      <types1:PublicationStatus>unpublished</types1:PublicationStatus>
+      <types1:Entry>
+         <processObject xmlns="http://schemas.active-endpoints.com/appmodules/screenflow/2011/06/avosHostEnvironment.xsd"
+                        displayName="CustomerInformation"
+                        isByCopy="true"
+                        name="CustomerInformation">
+            <description/>
+            <tags/>
+            <detail>
+               <field label="Customer ID"
+                      name="CustomerID"
+                      nullable="true"
+                      required="false"
+                      type="string">
+                  <options/>
+               </field>
+               <field label="Customer First Name"
+                      name="CustomerFirstName"
+                      nullable="true"
+                      required="false"
+                      type="string">
+                  <options/>
+               </field>
+               <field label="Customer Last Name"
+                      name="CustomerLastName"
+                      nullable="true"
+                      required="false"
+                      type="string">
+                  <options/>
+               </field>
+               <field label="Customer Phone"
+                      name="CustomerPhone"
+                      nullable="true"
+                      required="false"
+                      type="phone">
+                  <options/>
+               </field>
+            </detail>
+         </processObject>
+      </types1:Entry>
+      <types1:GUID>907CB4YbxXmg390EAtUliM</types1:GUID>
+      <types1:DisplayName>CustomerInformation</types1:DisplayName>
+   </types1:Item>
+   <types1:CurrentServerDateTime>2024-09-10T15:18:51.496Z</types1:CurrentServerDateTime>
+</aetgt:getResponse>

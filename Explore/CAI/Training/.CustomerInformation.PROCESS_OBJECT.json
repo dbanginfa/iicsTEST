@@ -1,15 +1,15 @@
 {
   "objectInfo" : {
-    "id" : "15kjAuz5Xmgi9MjZjvtM46",
-    "name" : "Hello World",
-    "type" : "PROCESS",
+    "id" : "907CB4YbxXmg390EAtUliM",
+    "name" : "CustomerInformation",
+    "type" : "PROCESS_OBJECT",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "ypLK2D86CjqFVNN-gt-1717067-2023-08-31T16:28:36.403Z::pd.xml"
+        "repoHandle" : "nOjseGbciZBpDUQ-gt-3109554-2024-04-26T21:58:46.21Z::po.xml"
       },
       "contextAttributes" : null,
       "additionalInfo" : {

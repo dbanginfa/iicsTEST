@@ -1,25 +1,25 @@
 {
   "objectInfo" : {
-    "id" : "15kjAuz5Xmgi9MjZjvtM46",
-    "name" : "Hello World",
-    "type" : "PROCESS",
+    "id" : "6gHm9iOQTELkwKt0kUTp0x",
+    "name" : "Marketo Login API",
+    "type" : "AI_SERVICE_CONNECTOR",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "ypLK2D86CjqFVNN-gt-1717067-2023-08-31T16:28:36.403Z::pd.xml"
+        "repoHandle" : "4DVK9Em2kVNKSmv-gt-3235600-2024-04-26T21:51:15.891Z::svc.xml"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "",
+        "description" : "Marketo Rest API",
         "contentType" : "application/json; charset=utf-8",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "xml",
-  "updateTime" : "2024-09-10T15:18:52.053Z",
+  "updateTime" : "2024-09-10T15:18:52.052Z",
   "objectRefs" : [ ]
 }

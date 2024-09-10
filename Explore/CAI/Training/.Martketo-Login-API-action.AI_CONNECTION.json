@@ -1,0 +1,45 @@
+{
+  "objectInfo" : {
+    "id" : "jQzLyth4XwOfCLRohYeNiA",
+    "name" : "Martketo-Login-API-action",
+    "type" : "AI_CONNECTION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "N4r6CFquUHukfRL-gt-3236498-2024-04-26T21:54:27.639Z::conn.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2024-09-10T15:18:52.052Z",
+  "objectRefs" : [ {
+    "id" : "6gHm9iOQTELkwKt0kUTp0x",
+    "name" : "Marketo Login API",
+    "type" : "AI_SERVICE_CONNECTOR",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "4DVK9Em2kVNKSmv-gt-3235600-2024-04-26T21:51:15.891Z::svc.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Marketo Rest API",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/CAI/Training"
+  } ]
+}

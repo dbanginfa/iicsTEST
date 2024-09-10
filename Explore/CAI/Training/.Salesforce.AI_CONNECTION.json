@@ -1,15 +1,15 @@
 {
   "objectInfo" : {
-    "id" : "15kjAuz5Xmgi9MjZjvtM46",
-    "name" : "Hello World",
-    "type" : "PROCESS",
+    "id" : "atAUuAJ8BpqfGNr1nvjfcD",
+    "name" : "Salesforce",
+    "type" : "AI_CONNECTION",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "ypLK2D86CjqFVNN-gt-1717067-2023-08-31T16:28:36.403Z::pd.xml"
+        "repoHandle" : "HBxZmtK9hCHbf2X-gt-5177049-2024-05-01T22:34:32.53Z::conn.xml"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -20,6 +20,6 @@
     }
   },
   "dataFileExtension" : "xml",
-  "updateTime" : "2024-09-10T15:18:52.053Z",
+  "updateTime" : "2024-09-10T15:18:52.052Z",
   "objectRefs" : [ ]
 }

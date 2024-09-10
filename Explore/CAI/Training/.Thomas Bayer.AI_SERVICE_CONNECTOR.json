@@ -1,15 +1,15 @@
 {
   "objectInfo" : {
-    "id" : "15kjAuz5Xmgi9MjZjvtM46",
-    "name" : "Hello World",
-    "type" : "PROCESS",
+    "id" : "59Cs3n27yTAlyGGlzUDwYp",
+    "name" : "Thomas Bayer",
+    "type" : "AI_SERVICE_CONNECTOR",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "ypLK2D86CjqFVNN-gt-1717067-2023-08-31T16:28:36.403Z::pd.xml"
+        "repoHandle" : "Z7snSDg8SOlA1vy-gt-3230920-2024-04-26T21:39:37.836Z::svc.xml"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
