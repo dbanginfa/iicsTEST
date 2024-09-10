@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "g1GPn4DRYSRdoypTqD7hgr",
+    "name" : "04643125",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "sfdc bulk v2 batch",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-09-10T16:19:29.193Z",
+  "objectRefs" : [ ]
+}

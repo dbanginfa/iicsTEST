@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "27jCJztQ08UhzvCGqCnjO7",
+    "name" : "04627829",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "partition",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-09-10T16:19:29.188Z",
+  "objectRefs" : [ ]
+}

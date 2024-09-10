@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "1g55Co3RlubeBwtnvmnOGY",
+    "name" : "04698004",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "java classpath",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-09-10T16:19:29.187Z",
+  "objectRefs" : [ ]
+}

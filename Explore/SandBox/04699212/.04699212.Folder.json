@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "aSn7UrpUfyqezUBadTG60i",
+    "name" : "04699212",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "fedramp jdbc_ic",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-09-10T16:19:29.179Z",
+  "objectRefs" : [ ]
+}
