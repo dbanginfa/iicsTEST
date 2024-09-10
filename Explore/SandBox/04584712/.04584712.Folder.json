@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "5nT9vdMKaQglKHcUj0N8uu",
-    "name" : "04612568",
+    "id" : "9dvu9pJXvNxho9z93yml6y",
+    "name" : "04584712",
     "type" : "Folder",
     "metadata" : {
       "modelVersion" : {
@@ -11,13 +11,13 @@
       "repoInfo" : null,
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "source filter import",
+        "description" : "data truncate",
         "contentType" : "Binary",
         "documentState" : "COMPLETE"
       }
     }
   },
   "dataFileExtension" : "json",
-  "updateTime" : "2024-09-10T16:06:29.830Z",
+  "updateTime" : "2024-09-10T16:06:29.815Z",
   "objectRefs" : [ ]
 }

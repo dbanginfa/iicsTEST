@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "l3VGYFRHbeKki2mqn1swUv",
-    "name" : "mt_srcFilter - Copy 1",
+    "id" : "3OxutxuaVmUhaI3S2dUy86",
+    "name" : "mt_specialChar",
     "type" : "MTT",
     "metadata" : {
       "modelVersion" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01ASU60Z0000000000BS"
+        "repoHandle" : "01ASU60Z0000000000BJ"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -23,28 +23,8 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-09-10T16:06:29.808Z",
+  "updateTime" : "2024-09-10T16:06:29.826Z",
   "objectRefs" : [ {
-    "id" : "1PLiSc5GA6oge4Ya9e0Kq3",
-    "name" : "DB_Ductuan_SQLServer_2",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01ASU60B00000000000L"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
     "id" : "6PBF1WoLURrlROwHC3qB20",
     "name" : "DB_Ductuan_FF_Win2_MSWL1",
     "type" : "Connection",
@@ -65,8 +45,8 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "izLjm23TcY4ideBmZpOgUB",
-    "name" : "m_srcFilter",
+    "id" : "60DVNjTmBUyhXcrrAOEsqy",
+    "name" : "m_specialChar",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -74,7 +54,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01ASU6170000000000C4"
+        "repoHandle" : "01ASU6170000000000BT"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -86,7 +66,7 @@
         "documentState" : "VALID"
       }
     },
-    "path" : "/Explore/SandBox/04612568"
+    "path" : "/Explore/SandBox/04600143"
   }, {
     "id" : "8TPWHJElLc6i7GAJhGt2E0",
     "name" : "ductuan_win2",

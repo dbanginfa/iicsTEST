@@ -1,0 +1,48 @@
+{
+  "objectInfo" : {
+    "id" : "40XrYMHpZ2QcUlkls2NR87",
+    "name" : "tf_taskflowtest2",
+    "type" : "TASKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "lUxQ2Tp5OjG4abc-gt-6091910-2023-11-28T21:50:12.193Z::tf.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2024-09-10T16:06:29.827Z",
+  "objectRefs" : [ {
+    "id" : "1MTX85xyc6ukdmlnT4n2YJ",
+    "name" : "mt_test1",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01ASU60Z0000000000BG"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/SandBox/04579250"
+  } ]
+}

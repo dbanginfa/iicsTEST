@@ -1,0 +1,48 @@
+{
+  "objectInfo" : {
+    "id" : "lGoFKyL5bIodGvIYpMGcon",
+    "name" : "tf_assign1 - Copy 1",
+    "type" : "TASKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "wtDdvrTdtqSLlBW-gt-6459667-2023-11-28T21:48:07.336Z::tf.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2024-09-10T16:06:29.813Z",
+  "objectRefs" : [ {
+    "id" : "1MTX85xyc6ukdmlnT4n2YJ",
+    "name" : "mt_test1",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01ASU60Z0000000000BG"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/SandBox/04579250"
+  } ]
+}

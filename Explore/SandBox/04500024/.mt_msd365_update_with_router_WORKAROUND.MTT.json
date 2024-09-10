@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "l3VGYFRHbeKki2mqn1swUv",
-    "name" : "mt_srcFilter - Copy 1",
+    "id" : "5TYGwICat6Xh99fr7Jatm2",
+    "name" : "mt_msd365_update_with_router_WORKAROUND",
     "type" : "MTT",
     "metadata" : {
       "modelVersion" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01ASU60Z0000000000BS"
+        "repoHandle" : "01ASU60Z0000000000AM"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -25,8 +25,8 @@
   "dataFileExtension" : "zip",
   "updateTime" : "2024-09-10T16:06:29.808Z",
   "objectRefs" : [ {
-    "id" : "1PLiSc5GA6oge4Ya9e0Kq3",
-    "name" : "DB_Ductuan_SQLServer_2",
+    "id" : "0YxGGC7zrDXhWn7Zxpolo4",
+    "name" : "DB_Ductuan_MSD365",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -34,7 +34,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01ASU60B00000000000L"
+        "repoHandle" : "01ASU60B000000000048"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -65,8 +65,28 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "izLjm23TcY4ideBmZpOgUB",
-    "name" : "m_srcFilter",
+    "id" : "0Ccdwhs48qXhsUDfytM146",
+    "name" : "DB_Ductuan_MSD365_INSERT_ONLY",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01ASU60B00000000004A"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "gfKChcuEGcikM7whLM6x6b",
+    "name" : "m_msd365_update_with_router_WORKAROUND",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -74,7 +94,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01ASU6170000000000C4"
+        "repoHandle" : "01ASU6170000000000AP"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -86,7 +106,7 @@
         "documentState" : "VALID"
       }
     },
-    "path" : "/Explore/SandBox/04612568"
+    "path" : "/Explore/SandBox/04500024"
   }, {
     "id" : "8TPWHJElLc6i7GAJhGt2E0",
     "name" : "ductuan_win2",
