@@ -1,0 +1,45 @@
+{
+  "objectInfo" : {
+    "id" : "8fep5Cp3wxDh9j8lC4N8KB",
+    "name" : "Taskflow_test_publish",
+    "type" : "TASKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "Smbduaa-gt-455477-2023-01-12T19:59:15.722Z::tf.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2024-09-10T15:52:58.555Z",
+  "objectRefs" : [ {
+    "id" : "4QHY3JAx8xocsrsxZWdD4c",
+    "name" : "mt_read_mysql_jdbc",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01ASU60Z00000000008Q"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Demo/MySQL"
+  } ]
+}

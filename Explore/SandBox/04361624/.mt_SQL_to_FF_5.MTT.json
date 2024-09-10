@@ -23,6 +23,7 @@
     }
   },
   "dataFileExtension" : "zip",
+  "updateTime" : "2024-09-10T15:52:58.553Z",
   "objectRefs" : [ {
     "id" : "4a36Y06TH9wgvdzbdVrme0",
     "name" : "m_SQL_to_FF_5",
@@ -48,7 +49,7 @@
     "path" : "/Explore/SandBox/04361624"
   }, {
     "id" : "6PBF1WoLURrlROwHC3qB20",
-    "name" : "DB_Ductuan_FF_Win2",
+    "name" : "DB_Ductuan_FF_Win2_MSWL1",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {

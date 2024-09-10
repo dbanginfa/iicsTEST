@@ -18,7 +18,6 @@
       <types1:PublishedBy>dbang@informatica.com</types1:PublishedBy>
       <types1:PublicationDate>2022-05-26T19:30:59Z</types1:PublicationDate>
       <types1:PublishedContributionId>project:/tf.tf_mailingTest/tf_mailingTest.tf.xml</types1:PublishedContributionId>
-      <types1:AutosaveExists>false</types1:AutosaveExists>
       <types1:Entry>
          <taskflow xmlns="http://schemas.active-endpoints.com/appmodules/screenflow/2010/10/avosScreenflow.xsd"
                    xmlns:tfm="http://schemas.active-endpoints.com/appmodules/screenflow/2021/04/taskflowModel.xsd"
@@ -148,5 +147,5 @@
       <types1:GUID>7KAC7YmVnSsba4waFaNt6S</types1:GUID>
       <types1:DisplayName>tf_mailingTest</types1:DisplayName>
    </types1:Item>
-   <types1:CurrentServerDateTime>2022-10-05T19:53:56.528Z</types1:CurrentServerDateTime>
+   <types1:CurrentServerDateTime>2024-09-10T15:52:57.23Z</types1:CurrentServerDateTime>
 </aetgt:getResponse>
