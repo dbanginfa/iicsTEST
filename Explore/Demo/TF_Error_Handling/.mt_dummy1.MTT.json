@@ -23,6 +23,7 @@
     }
   },
   "dataFileExtension" : "zip",
+  "updateTime" : "2024-09-10T15:10:17.324Z",
   "objectRefs" : [ {
     "id" : "c3hZcYl4hqTlX8tQKr3UO9",
     "name" : "m_dummy1",
@@ -48,7 +49,7 @@
     "path" : "/Explore/Demo/TF_Error_Handling"
   }, {
     "id" : "6PBF1WoLURrlROwHC3qB20",
-    "name" : "DB_Ductuan_FF_Win2",
+    "name" : "DB_Ductuan_FF_Win2_MSWL1",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {

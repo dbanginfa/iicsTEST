@@ -1,0 +1,48 @@
+{
+  "objectInfo" : {
+    "id" : "a7RVoRpJHWDcf1x0YEyNIl",
+    "name" : "tf_trackMe",
+    "type" : "TASKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "eJ91pqrzYLnzYLn-gt-9759709-2023-08-17T20:52:05.907Z::tf.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2024-09-10T15:10:17.316Z",
+  "objectRefs" : [ {
+    "id" : "d0FDNYxgNwuhSUFemu5MOe",
+    "name" : "mt_trackMe",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01ASU60Z0000000000AZ"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Demo/TF_Test"
+  } ]
+}

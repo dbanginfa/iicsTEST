@@ -1,0 +1,45 @@
+{
+  "objectInfo" : {
+    "id" : "3D5PW31N8GvfDj1BWB29Ok",
+    "name" : "tf_cmd",
+    "type" : "TASKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "r4sxhFdw8jIw8jI-gt-4681614-2024-02-23T21:01:04.281Z::tf.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2024-09-10T15:10:17.327Z",
+  "objectRefs" : [ {
+    "id" : "3X0XJVkZkgRcbzH4cfELkJ",
+    "name" : "ductuan_lin_group",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01ASU625000000000006"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}

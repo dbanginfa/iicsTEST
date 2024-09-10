@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "329cAFJSs4pfNyCHp9gggK",
+    "name" : "Shared",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-09-10T15:10:17.327Z",
+  "objectRefs" : [ ]
+}
