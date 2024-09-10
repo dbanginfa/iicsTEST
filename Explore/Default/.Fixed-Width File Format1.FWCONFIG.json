@@ -1,15 +1,15 @@
 {
   "objectInfo" : {
-    "id" : "2evSuv27SChiCQad6Udu0N",
-    "name" : "RemoveSpaces",
-    "type" : "UDF",
+    "id" : "gC2gyHjyXYgkVw7kJHEbsL",
+    "name" : "Fixed-Width File Format1",
+    "type" : "FWCONFIG",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01ASU641000000000007"
+        "repoHandle" : "01ASU62900000000000V"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -23,6 +23,6 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-09-10T15:15:03.282Z",
+  "updateTime" : "2024-09-10T15:15:03.284Z",
   "objectRefs" : [ ]
 }

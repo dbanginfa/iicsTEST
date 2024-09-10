@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "gK2wSvPlpSLiuZ53fEwjCy",
-    "name" : "monitorTesting",
+    "id" : "gTHITXFdt6AhbIJzcI2a8W",
+    "name" : "vivek_sanofi_november_release",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01ASU6170000000000AZ"
+        "repoHandle" : "01ASU6170000000000BO"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -25,8 +25,8 @@
   "dataFileExtension" : "zip",
   "updateTime" : "2024-09-10T15:15:03.286Z",
   "objectRefs" : [ {
-    "id" : "6PBF1WoLURrlROwHC3qB20",
-    "name" : "DB_Ductuan_FF_Win2_MSWL1",
+    "id" : "0NrXXUCV3cJiZO7TmGbiyw",
+    "name" : "SDB_SFDCDeveloper_Win2",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -34,7 +34,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01ASU60B00000000001H"
+        "repoHandle" : "01ASU60B00000000001G"
       },
       "contextAttributes" : null,
       "additionalInfo" : {

@@ -1,15 +1,15 @@
 {
   "objectInfo" : {
-    "id" : "imy3ENS8I0UlOiJgpURLOX",
-    "name" : "gitTest",
-    "type" : "DTEMPLATE",
+    "id" : "aKjLgUztT0bgsaejtIjeAI",
+    "name" : "Mapping32",
+    "type" : "EcosystemDTemplate",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01ASU6170000000000CD"
+        "repoHandle" : "01ASU6170000000000DJ"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -18,15 +18,15 @@
       "additionalInfo" : {
         "description" : "",
         "contentType" : "JSON",
-        "documentState" : "VALID"
+        "documentState" : "INVALID"
       }
     }
   },
   "dataFileExtension" : "zip",
   "updateTime" : "2024-09-10T15:15:03.287Z",
   "objectRefs" : [ {
-    "id" : "775nqB0tO0ihnBLPdF55w6",
-    "name" : "DB_Ductuan_FF_Win2_UTF8",
+    "id" : "704yS52mkKVkLnHbTqTRgF",
+    "name" : "DB_Databricks",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -34,7 +34,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01ASU60B000000000059"
+        "repoHandle" : "01ASU60B000000000061"
       },
       "contextAttributes" : null,
       "additionalInfo" : {

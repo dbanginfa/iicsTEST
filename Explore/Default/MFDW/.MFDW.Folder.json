@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "012QG9qJsTUcxQRVidJIMj",
-    "name" : "Shared",
+    "id" : "5oPgj2LstMxlXrkcthAhEL",
+    "name" : "MFDW",
     "type" : "Folder",
     "metadata" : {
       "modelVersion" : {
@@ -11,13 +11,13 @@
       "repoInfo" : null,
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "CHG0212236",
         "contentType" : "Binary",
         "documentState" : "COMPLETE"
       }
     }
   },
   "dataFileExtension" : "json",
-  "updateTime" : "2024-09-10T15:15:03.286Z",
+  "updateTime" : "2024-09-10T15:15:03.285Z",
   "objectRefs" : [ ]
 }

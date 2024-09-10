@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "gK2wSvPlpSLiuZ53fEwjCy",
-    "name" : "monitorTesting",
+    "id" : "lwifgg1Rlc3hAsh6yIdBgZ",
+    "name" : "Mapping26",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01ASU6170000000000AZ"
+        "repoHandle" : "01ASU6170000000000B0"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -23,10 +23,10 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-09-10T15:15:03.286Z",
+  "updateTime" : "2024-09-10T15:15:03.288Z",
   "objectRefs" : [ {
-    "id" : "6PBF1WoLURrlROwHC3qB20",
-    "name" : "DB_Ductuan_FF_Win2_MSWL1",
+    "id" : "6oEJ1dRVIIxfwUdYRlUfaT",
+    "name" : "AM_FlatFile",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -34,7 +34,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01ASU60B00000000001H"
+        "repoHandle" : "01ASU60B00000000004G"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -45,8 +45,8 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "87D1yreN6AkbASrVni89IT",
-    "name" : "DB_Ductuan_FF_Win2_Test",
+    "id" : "dbwcbrXt1y6bQ0LQ10R28G",
+    "name" : "AM_Snowflake",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -54,7 +54,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01ASU60B00000000004F"
+        "repoHandle" : "01ASU60B00000000004H"
       },
       "contextAttributes" : null,
       "additionalInfo" : {

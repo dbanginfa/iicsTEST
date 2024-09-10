@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "gK2wSvPlpSLiuZ53fEwjCy",
-    "name" : "monitorTesting",
+    "id" : "eyADuHQjrMVdbBmJV420Wy",
+    "name" : "M_Case04604563_importissue",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01ASU6170000000000AZ"
+        "repoHandle" : "01ASU6170000000000BX"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -23,7 +23,7 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-09-10T15:15:03.286Z",
+  "updateTime" : "2024-09-10T15:15:03.283Z",
   "objectRefs" : [ {
     "id" : "6PBF1WoLURrlROwHC3qB20",
     "name" : "DB_Ductuan_FF_Win2_MSWL1",
@@ -35,26 +35,6 @@
       },
       "repoInfo" : {
         "repoHandle" : "01ASU60B00000000001H"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "87D1yreN6AkbASrVni89IT",
-    "name" : "DB_Ductuan_FF_Win2_Test",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01ASU60B00000000004F"
       },
       "contextAttributes" : null,
       "additionalInfo" : {

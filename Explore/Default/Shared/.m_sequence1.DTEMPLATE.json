@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "gK2wSvPlpSLiuZ53fEwjCy",
-    "name" : "monitorTesting",
+    "id" : "9ICDkcbM9CJdA4F1rQsSyq",
+    "name" : "m_sequence1",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01ASU6170000000000AZ"
+        "repoHandle" : "01ASU61700000000009N"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -23,8 +23,31 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-09-10T15:15:03.286Z",
+  "updateTime" : "2024-09-10T15:15:03.282Z",
   "objectRefs" : [ {
+    "id" : "1GR8fiLqkESb8Hb2lasP0r",
+    "name" : "SharedSequence1",
+    "type" : "SequenceGenerator",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01ASU642000000000008"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Default/Shared"
+  }, {
     "id" : "6PBF1WoLURrlROwHC3qB20",
     "name" : "DB_Ductuan_FF_Win2_MSWL1",
     "type" : "Connection",
@@ -35,26 +58,6 @@
       },
       "repoInfo" : {
         "repoHandle" : "01ASU60B00000000001H"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "87D1yreN6AkbASrVni89IT",
-    "name" : "DB_Ductuan_FF_Win2_Test",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01ASU60B00000000004F"
       },
       "contextAttributes" : null,
       "additionalInfo" : {

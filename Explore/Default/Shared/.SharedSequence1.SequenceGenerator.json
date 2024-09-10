@@ -1,15 +1,15 @@
 {
   "objectInfo" : {
-    "id" : "2evSuv27SChiCQad6Udu0N",
-    "name" : "RemoveSpaces",
-    "type" : "UDF",
+    "id" : "1GR8fiLqkESb8Hb2lasP0r",
+    "name" : "SharedSequence1",
+    "type" : "SequenceGenerator",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01ASU641000000000007"
+        "repoHandle" : "01ASU642000000000008"
       },
       "contextAttributes" : [ {
         "name" : "id",
