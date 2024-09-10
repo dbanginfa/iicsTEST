@@ -1,0 +1,68 @@
+{
+  "objectInfo" : {
+    "id" : "hHcGFQeqNYlfglznMz51cL",
+    "name" : "SDB_Listener_Taskflow",
+    "type" : "TASKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "RkZlkZ2sBsoZduD-gt-1714179-2021-09-10T18:22:50.701Z::tf.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2024-09-10T15:17:19.732Z",
+  "objectRefs" : [ {
+    "id" : "7kiMLugkHw1i6hWY1E0O4a",
+    "name" : "SDB_File_Listener",
+    "type" : "MI_FILE_LISTENER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "10548"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/CDI ILT Development/DB_ Ductuan"
+  }, {
+    "id" : "gsTScyR7x4OeT52UrpXkuz",
+    "name" : "SDB_File_Listener_Task",
+    "type" : "DSS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01ASU60I000000000004"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/CDI ILT Development/DB_ Ductuan"
+  } ]
+}

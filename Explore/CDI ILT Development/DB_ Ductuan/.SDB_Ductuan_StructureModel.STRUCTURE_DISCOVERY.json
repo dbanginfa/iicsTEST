@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "2drQvlQtdAHgSfrDUrIlCK",
+    "name" : "SDB_Ductuan_StructureModel",
+    "type" : "STRUCTURE_DISCOVERY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01ASU630000000000002"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2024-09-10T15:17:19.731Z",
+  "objectRefs" : [ ]
+}

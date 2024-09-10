@@ -1,0 +1,48 @@
+{
+  "objectInfo" : {
+    "id" : "aN3al0OeIicgUIlxJC17I4",
+    "name" : "SDB_InOut_Taskflow",
+    "type" : "TASKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "shBnJKoJBUhtyco-gt-1688316-2021-09-10T18:00:04.302Z::tf.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2024-09-10T15:17:19.731Z",
+  "objectRefs" : [ {
+    "id" : "4XaBOXjNHQ7icDAzBT1pkB",
+    "name" : "SDB_InOutParameter_Task",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01ASU60Z00000000000C"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/CDI ILT Development/DB_ Ductuan"
+  } ]
+}
