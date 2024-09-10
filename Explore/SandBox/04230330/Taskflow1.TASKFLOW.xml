@@ -14,11 +14,7 @@
       <types1:CreationDate>2021-11-09T00:40:04Z</types1:CreationDate>
       <types1:ModifiedBy>dbang@informatica.com</types1:ModifiedBy>
       <types1:ModificationDate>2021-11-10T17:44:03Z</types1:ModificationDate>
-      <types1:PublicationStatus>out-of-date</types1:PublicationStatus>
-      <types1:PublishedBy>dbang@informatica.com</types1:PublishedBy>
-      <types1:PublicationDate>2021-11-10T17:43:38Z</types1:PublicationDate>
-      <types1:PublishedContributionId>project:/tf.Taskflow1/Taskflow1.tf.xml</types1:PublishedContributionId>
-      <types1:AutosaveExists>false</types1:AutosaveExists>
+      <types1:PublicationStatus>unpublished</types1:PublicationStatus>
       <types1:Entry>
          <taskflow xmlns="http://schemas.active-endpoints.com/appmodules/screenflow/2010/10/avosScreenflow.xsd"
                    xmlns:tfm="http://schemas.active-endpoints.com/appmodules/screenflow/2021/04/taskflowModel.xsd"
@@ -144,5 +140,5 @@
       <types1:GUID>16GYW1vTsGObL5ha9qcLgH</types1:GUID>
       <types1:DisplayName>Taskflow1</types1:DisplayName>
    </types1:Item>
-   <types1:CurrentServerDateTime>2022-10-05T20:27:46.515Z</types1:CurrentServerDateTime>
+   <types1:CurrentServerDateTime>2024-09-10T15:48:26.396Z</types1:CurrentServerDateTime>
 </aetgt:getResponse>

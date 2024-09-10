@@ -23,6 +23,7 @@
     }
   },
   "dataFileExtension" : "zip",
+  "updateTime" : "2024-09-10T15:48:27.370Z",
   "objectRefs" : [ {
     "id" : "0NrXXUCV3cJiZO7TmGbiyw",
     "name" : "SDB_SFDCDeveloper_Win2",
@@ -68,7 +69,7 @@
     "path" : "/Explore/SandBox/04308844"
   }, {
     "id" : "6PBF1WoLURrlROwHC3qB20",
-    "name" : "DB_Ductuan_FF_Win2",
+    "name" : "DB_Ductuan_FF_Win2_MSWL1",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {

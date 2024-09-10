@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "kAGrZqdlUUMknJd8MqBvUf",
+    "name" : "00001149",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "error row",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-09-10T15:48:27.368Z",
+  "objectRefs" : [ ]
+}
