@@ -26,6 +26,7 @@
     }
   },
   "dataFileExtension" : "zip",
+  "updateTime" : "2024-09-10T15:59:35.308Z",
   "objectRefs" : [ {
     "id" : "lLR6LnBDu0Zd35HZs8DSOm",
     "name" : "SDB_Ductuan_OpenWeather_RESTv2",

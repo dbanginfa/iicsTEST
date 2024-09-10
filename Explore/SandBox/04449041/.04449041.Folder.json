@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "c736Zux1v8Cc4Q8EwLr7c4",
+    "name" : "04449041",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Oracle PDO",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-09-10T15:59:35.294Z",
+  "objectRefs" : [ ]
+}

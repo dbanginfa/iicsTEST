@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "39SAvDsDgizkpxTwR7pBk8",
+    "name" : "04483642",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Escape",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-09-10T15:59:35.297Z",
+  "objectRefs" : [ ]
+}

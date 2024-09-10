@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "k1JZHq5gaABfrIiYVDvfQr",
+    "name" : "04448962",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Schedule",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-09-10T15:59:35.311Z",
+  "objectRefs" : [ ]
+}

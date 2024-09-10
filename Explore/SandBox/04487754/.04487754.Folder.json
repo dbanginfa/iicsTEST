@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "aeT7O4X9SyJkZ3041DOqI9",
+    "name" : "04487754",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "multiple ff to s3 v2",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-09-10T15:59:35.290Z",
+  "objectRefs" : [ ]
+}

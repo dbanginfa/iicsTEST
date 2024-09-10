@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "0RDOoSpHbREgxUCODsyAMn",
+    "name" : "04401400",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Row data in session log",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-09-10T15:59:35.306Z",
+  "objectRefs" : [ ]
+}

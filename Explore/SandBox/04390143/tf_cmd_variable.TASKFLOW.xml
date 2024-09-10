@@ -13,12 +13,11 @@
       <types1:CreatedBy>dbang@informatica.com</types1:CreatedBy>
       <types1:CreationDate>2022-10-13T14:55:47Z</types1:CreationDate>
       <types1:ModifiedBy>dbang@informatica.com</types1:ModifiedBy>
-      <types1:ModificationDate>2022-10-13T14:56:05Z</types1:ModificationDate>
+      <types1:ModificationDate>2022-10-17T20:20:19Z</types1:ModificationDate>
       <types1:PublicationStatus>published</types1:PublicationStatus>
       <types1:PublishedBy>dbang@informatica.com</types1:PublishedBy>
-      <types1:PublicationDate>2022-10-13T14:57:31Z</types1:PublicationDate>
+      <types1:PublicationDate>2022-10-17T20:21:28Z</types1:PublicationDate>
       <types1:PublishedContributionId>project:/tf.tf_cmd_variable/tf_cmd_variable.tf.xml</types1:PublishedContributionId>
-      <types1:AutosaveExists>false</types1:AutosaveExists>
       <types1:Entry>
          <taskflow xmlns="http://schemas.active-endpoints.com/appmodules/screenflow/2010/10/avosScreenflow.xsd"
                    xmlns:tfm="http://schemas.active-endpoints.com/appmodules/screenflow/2021/04/taskflowModel.xsd"
@@ -36,7 +35,7 @@
                   <options>
                      <option name="referenceTo">$po:INFA-commandTask</option>
                      <option name="failOnNotRun">false</option>
-                     <option name="failOnFault">false</option>
+                     <option name="failOnFault">true</option>
                   </options>
                </field>
             </tempFields>
@@ -56,11 +55,11 @@
                      <serviceInput>
                         <parameter name="Task Name" source="constant">Command Task 1</parameter>
                         <parameter name="Wait for Task to Complete" source="constant">true</parameter>
-                        <parameter name="Runtime Environment" source="constant">01ASU625000000000002:LocalWindowsGroup</parameter>
-                        <parameter name="Script Name" source="constant">$MyDir\DummyDir\fake.bat</parameter>
+                        <parameter name="Runtime Environment" source="constant">01ASU625000000000005:ductuan_win_group</parameter>
+                        <parameter name="Script Name" source="constant">%MYDIR%\test.bat</parameter>
                         <parameter name="Input Arguments" source="constant"/>
                         <parameter name="Work Directory" source="constant"/>
-                        <parameter name="RuntimeEnvGUID" source="constant">0Ks4S1oI3awlsbGmqdCak7</parameter>
+                        <parameter name="RuntimeEnvGUID" source="constant">jqohXVfxemUcAWJJY2T5ak</parameter>
                      </serviceInput>
                      <serviceOutput>
                         <operation source="field" to="temp.Command Task 1/output/Run_Id">Run Id</operation>
@@ -76,9 +75,7 @@
                      <catch faultField="temp.Command Task 1/fault"
                             id="l976miqa"
                             interrupting="true"
-                            name="error">
-                        <suspend/>
-                     </catch>
+                            name="error"/>
                   </events>
                </eventContainer>
                <end id="c"/>
@@ -109,5 +106,5 @@
       <types1:GUID>0JWVWvXsCOljKyPlLC1UEU</types1:GUID>
       <types1:DisplayName>tf_cmd_variable</types1:DisplayName>
    </types1:Item>
-   <types1:CurrentServerDateTime>2022-10-14T14:32:43.319Z</types1:CurrentServerDateTime>
+   <types1:CurrentServerDateTime>2024-09-10T15:59:26.408Z</types1:CurrentServerDateTime>
 </aetgt:getResponse>

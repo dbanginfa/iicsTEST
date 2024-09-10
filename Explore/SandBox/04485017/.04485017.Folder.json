@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "2Z80ITGCXa6czNoFo7mZ0Q",
+    "name" : "04485017",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Snowflake",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-09-10T15:59:35.292Z",
+  "objectRefs" : [ ]
+}

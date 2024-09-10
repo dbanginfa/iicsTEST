@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "3SQxm3UIlEXeSo85crZuAG",
+    "name" : "04468722",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "oracle table case",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-09-10T15:59:35.287Z",
+  "objectRefs" : [ ]
+}
