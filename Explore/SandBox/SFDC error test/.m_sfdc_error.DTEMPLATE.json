@@ -1,68 +1,68 @@
 {
   "objectInfo" : {
-    "id" : "7U3MxztHTC4dEaFMevmGIU",
-    "name" : "SF to SQL Linear Taskflow1",
-    "type" : "WORKFLOW",
+    "id" : "3zpMrp3YSS2hCmoBsdRSwY",
+    "name" : "m_sfdc_error",
+    "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01ASU60N000000000003"
+        "repoHandle" : "01ASU6170000000000BK"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : null,
+        "description" : "",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-09-10T17:00:25.894Z",
+  "updateTime" : "2024-09-10T17:00:25.893Z",
   "objectRefs" : [ {
-    "id" : "7gSRCJslQuWebUiwtBkRqp",
-    "name" : "EventRelation Replication Task1",
-    "type" : "DRS",
+    "id" : "0NrXXUCV3cJiZO7TmGbiyw",
+    "name" : "SDB_SFDCDeveloper_Win2",
+    "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01ASU60G000000000004"
+        "repoHandle" : "01ASU60B00000000001G"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : null,
         "contentType" : "JSON",
-        "documentState" : "VALID"
+        "documentState" : "COMPLETE"
       }
     },
-    "path" : "/Explore/SandBox"
+    "path" : "/SYS"
   }, {
-    "id" : "7zgSzedqisulmoq510ZJYF",
-    "name" : "Event Replication Task1",
-    "type" : "DRS",
+    "id" : "87D1yreN6AkbASrVni89IT",
+    "name" : "DB_Ductuan_FF_Win2_Test",
+    "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01ASU60G000000000003"
+        "repoHandle" : "01ASU60B00000000004F"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : null,
         "contentType" : "JSON",
-        "documentState" : "VALID"
+        "documentState" : "COMPLETE"
       }
     },
-    "path" : "/Explore/SandBox"
+    "path" : "/SYS"
   } ]
 }
