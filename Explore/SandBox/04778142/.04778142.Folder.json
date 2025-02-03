@@ -1,8 +1,8 @@
 {
   "objectInfo" : {
-    "id" : "keKg7UioMk0kqOb2oLHSWk",
-    "name" : "SandBox",
-    "type" : "Project",
+    "id" : "6P3PvYq6tijjjFCUDEEr6R",
+    "name" : "04778142",
+    "type" : "Folder",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
@@ -11,7 +11,7 @@
       "repoInfo" : null,
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "mtt schedule export",
         "contentType" : "Binary",
         "documentState" : "COMPLETE"
       }
