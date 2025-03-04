@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "gEQKwsxJNyldMAtl2zu1UI",
+    "name" : "subProcess",
+    "type" : "PROCESS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "nW7eLyCnNZPD4AR-gt-3148583-2023-12-11T19:54:58.218Z::pd.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "change",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2025-03-04T21:37:34.050Z",
+  "objectRefs" : [ ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
+}
